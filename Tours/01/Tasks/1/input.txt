@@ -1,0 +1,8 @@
+7
+3 qwerty
+3 string
+6 good
+1 a
+3 ab
+2 hello
+5 world

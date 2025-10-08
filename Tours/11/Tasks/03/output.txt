@@ -1,0 +1,10 @@
+10 : 0100
+32 : 011
+97 : 0101
+107 : 10
+108 : 11
+111 : 00
+Information capacity = 2.266270
+Input file size = 19
+Code length = 44
+Redundancy = 0.021383
